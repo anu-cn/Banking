@@ -4,4 +4,4 @@ Problem Statement : Create a simple dynamic website for basic banking transactio
 
 Languages used: HTML, CSS, JavaScript, PHP, SQL
 
-Website link: https://anjsparks.000webhostapp.com/transfer.php
+Website link: https://anjsparks.000webhostapp.com/index.php
